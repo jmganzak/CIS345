@@ -1,2 +1,2 @@
 # CIS345
-CIS345 Spring 2022 Linux SVSU
+CIS345 Spring 2022 Linux 
